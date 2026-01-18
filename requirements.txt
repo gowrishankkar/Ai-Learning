@@ -42,3 +42,4 @@ unstructured
 pytube
 numexpr
 huggingface_hub
+tf-keras
